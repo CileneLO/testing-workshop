@@ -1,20 +1,25 @@
 ---
-workshop_id: 
+workshop_id: CLOS20211209PR_01
 topic: preregistration
-title: 
-instructors: []
-instructor_emails: []
-helpers: []
+title: Pré registro e relatos registrados
+instructors:
+  - Cilene Lino de Oliveira
+instructor_emails:
+  - cilene.lino@ufsc.br
+helpers:
+  - Juliana Bolzan
 start_times:
   - 09|00
-setup_files: []
-language: en
-venue: null
-address: null
-country: null
+  - GT|-3
+setup_files:
+  - videoconferencing
+language: pt
+venue: Labnec-CFS-CCB-UFSC
+address: Campus Universitário Trindade
+country: BR
 latitude: null
 longitude: null
-start_date: null
+start_date: 2021-12-09T03:00:00.000Z
 collaborative_notes: null
 eventbrite: null
 optional_intro_sections:
